@@ -1,0 +1,13 @@
+# Virtual environment (recreate with `uv sync`)
+.venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS and editor cruft
+.DS_Store
+Thumbs.db
